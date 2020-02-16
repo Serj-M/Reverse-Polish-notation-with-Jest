@@ -1,0 +1,19 @@
+{
+  "name": "reverse-polish-notation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "test"
+  ],
+  "author": "Serj Makshakov <dus-f@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
